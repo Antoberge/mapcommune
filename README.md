@@ -8,7 +8,7 @@ Mapping various data at the city level for France. List of maps:
 
 To reroduce and adjust the maps, you can clone the repository
 ```bash
-https://github.com/Antoberge/mapcommune
+git clone https://github.com/Antoberge/mapcommune.git
 ```
 
 Edit the config.do file to add your own path.
